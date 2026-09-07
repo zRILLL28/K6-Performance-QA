@@ -1,6 +1,6 @@
 # K6 Performance QA
 
-[![K6 Performance Tests](https://github.com/zRILLL28/k6-performance-qa/actions/workflows/k6-tests.yml/badge.svg)](https://github.com/<username>/k6-performance-qa/actions/workflows/k6-tests.yml)
+[![K6 Performance Tests](https://github.com/zRILLL28/k6-performance-qa/actions/workflows/k6-tests.yml/badge.svg)](https://github.com/zRILLL28/k6-performance-qa/actions/workflows/k6-tests.yml)
 ![k6](https://img.shields.io/badge/k6-%3E%3D0.49-7d64ff?logo=k6&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)
