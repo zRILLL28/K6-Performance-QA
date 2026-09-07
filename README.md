@@ -238,7 +238,3 @@ Workflow di `.github/workflows/k6-tests.yml` akan otomatis berjalan saat:
 2. Import helper dari `utils/helpers.js` dan konfigurasi dari `config/environments.js`.
 3. Tambahkan `options` (stages/thresholds) sesuai kebutuhan skenario.
 4. (Opsional) tambahkan shortcut baru di `package.json`.
-
-## 📄 Lisensi
-
-MIT
