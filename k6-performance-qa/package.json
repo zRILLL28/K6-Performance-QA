@@ -1,0 +1,18 @@
+{
+  "name": "k6-performance-qa",
+  "version": "1.0.0",
+  "description": "Performance QA project menggunakan k6",
+  "private": true,
+  "scripts": {
+    "test:smoke": "k6 run scripts/smoke-test.js",
+    "test:load": "k6 run scripts/load-test.js",
+    "test:stress": "k6 run scripts/stress-test.js",
+    "test:spike": "k6 run scripts/spike-test.js",
+    "test:soak": "k6 run scripts/soak-test.js",
+    "test:smoke:staging": "k6 run -e ENV=staging scripts/smoke-test.js",
+    "test:load:staging": "k6 run -e ENV=staging scripts/load-test.js",
+    "report:html": "k6 run --out json=results/result.json scripts/load-test.js"
+  },
+  "keywords": ["k6", "performance-testing", "load-testing", "qa"],
+  "license": "MIT"
+}
