@@ -146,7 +146,7 @@ Menguji stabilitas sistem saat menerima beban moderat namun berjalan dalam **dur
 
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/<username>/k6-performance-qa.git
+   git clone https://github.com/zRILLL28/k6-performance-qa.git
    cd k6-performance-qa
    ```
 
